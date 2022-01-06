@@ -1,8 +1,12 @@
-# github_api_app
+# Flutter Challenge - Github API App
 
-A new Flutter project.
 
-## Getting Started
+## Overview
+![flutter01](https://user-images.githubusercontent.com/70443393/148435102-5fb04556-b08f-47c2-ba49-6be8352c243f.PNG)
+
+![flutter02](https://user-images.githubusercontent.com/70443393/148435136-ac13f91b-5392-4d46-a87e-bcc2320a7e4b.PNG)
+
+
 
 This project is a starting point for a Flutter application.
 
